@@ -1,0 +1,11 @@
+.rounded-button-or-label {
+    -fx-background-radius: 15;
+    -fx-background-color: #007bff;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+}
+
+.button
+{
+
+}
